@@ -1,5 +1,5 @@
 body {
-  background-color: #2b19b2;
+  background-color: #6859db;
   font-family: "Open+Sans", sans-serif;
   margin: auto;
   width: 75%;
@@ -25,12 +25,12 @@ body {
   border-radius: 10px;
   color: #f5f2eb;
   font-size: 2em;
-  background: #86a2ba;
+  background: #333333;
   padding: 7px 22px 7px 22px;
   text-decoration: none;
 }
 
 #actionButton:hover {
-  background: #587be1;
+  background: #55555;
   text-decoration: none;
 }
